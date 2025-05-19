@@ -40,9 +40,6 @@ Este proyecto realiza un análisis exploratorio del dataset "SAT-MV-BU_2017-2023
 3. **Inconsistencias Detectadas**:
    - Columnas como `tipo_persona_id` requieren limpieza adicional (ej: textos mal formateados).
 
-## Contribuciones
-¡Las contribuciones son bienvenidas! Por favor, abra un *issue* para discutir mejoras o envíe un *pull request*.
-
 ## Licencia
 Los datos son públicos bajo [licencia de datos abiertos](https://datos.gob.ar/).
 
