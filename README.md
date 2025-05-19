@@ -22,8 +22,8 @@ Este proyecto realiza un análisis exploratorio del dataset "SAT-MV-BU_2017-2023
   - **Víctimas/Imputados**: Sexo, edad, tipo de vehículo, rol (peatón/conductor)
 
 ## Estructura del Repositorio
-├── documentos/ # Informes presentados para las evidencias
-└── README.md # Documentación del proyecto
+- ├── documentos/ # Informes presentados para las evidencias
+- └── README.md # Documentación del proyecto
 
 ## Requisitos
 - Python 3.8+
