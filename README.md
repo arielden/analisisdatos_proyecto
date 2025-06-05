@@ -1,7 +1,8 @@
 # Análisis de Muertes Viales en Argentina (2017-2023)
 
 ## Análisis exploratorio (Google colab)
-- https://colab.research.google.com/drive/1J2E-ObTL3KheFMkoQ8b5CEx_uIXGJglg?usp=sharing
+
+- https://drive.google.com/file/d/14zvPNiBNf5hcKOuJTh7t0MGCtNaadbnT/view?usp=sharing
 
 ## Descripción del Proyecto
 Este proyecto realiza un análisis exploratorio del dataset "SAT-MV-BU_2017-2023" con registros de hechos viales en Argentina, incluyendo víctimas, imputados, y características geográficas/temporales. El objetivo es identificar patrones de siniestralidad, valores faltantes y distribuciones clave para futuras etapas de visualización y modelado.
